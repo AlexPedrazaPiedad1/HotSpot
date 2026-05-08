@@ -1,0 +1,1 @@
+Esta carpeta del repositorio contiene los comandos necesarios para realizar un MAN IN THE MIDDLE (MITM) en la red local, de forma que puedas ver el trafico de tu red privada i redirigir una dns a otra.

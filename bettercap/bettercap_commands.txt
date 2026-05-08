@@ -56,3 +56,6 @@ arp.spoof on
 set dns.spoof.domains lasallegirona.sallenet.org
 set dns.spoof.address 10.30.20.29
 dns.spoof on
+
+// Si estos comandos no te son de ayuda. Puedes ayudarte del siguiente tutorial.
+// https://www.youtube.com/watch?v=ER9S6sI-QLI
